@@ -1,3 +1,5 @@
 scikit-learn
 jupyter
 matplotlib
+pandas
+seaborn
